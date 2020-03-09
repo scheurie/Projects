@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27 Aug 2019, 6:03:42 PM
+    Author     : Monique Scheurwater
+*/
+
+h2 {
+    text-align: center;
+    font-size: 70px;
+    font-family: "Century Gothic";
+    border-style: inset;
+     
+}
+
+#header {
+    margin-top: 4%;
+}
+
+.crest
+{
+    float: left;
+}
+
+.gryf{
+    float : right;
+}
+
+#dracoOld{
+    float: left;
+}
+
+#dracoM{
+    float: left;
+}
+
+#draco{
+    float: left;
+}
+
+#sly{
+    float: right;
+}
